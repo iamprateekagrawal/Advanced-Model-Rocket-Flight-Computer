@@ -1,0 +1,12 @@
+Going through this project, I got to learn about things described below:
+
+PCB(Printed Circuit Board):
+1. Basically, helps to condense circuits to a single board piece with required connections and spaces for components.
+2. Components attached via surface mounting (surface mounting devices or SMDs) or soldering through holes.
+3. Made my own PCB for a blnking LED circuit, using EasyEDA software.
+
+More on Arduino:
+1. gyro and accelerometer in Arduino.
+2. Kalman filtering technique.
+3. Confusing long arduino codes :p
+4. Using Teensy with arduino IDE
