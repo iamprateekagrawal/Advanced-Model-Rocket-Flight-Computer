@@ -1,0 +1,11 @@
+Here I explain project setup in brief:
+
+Step1: We download PCB file from https://hacksterio.s3.amazonaws.com/uploads/attachments/1108247/omega_v4_dev_iH8wTGMZul.png and order it.
+Step2: soldering and assembly completed and 3D printed the two mounting brackets from https://www.thingiverse.com/thing:4308686
+
+Flight computer done! Next is coding.
+
+Step3: We download Arduino IDE and Teensyduino
+Step4: We upload the code to the flight computer with servos plugged in.
+
+Now we are ready for the launch!!
